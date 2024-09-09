@@ -28,13 +28,13 @@ Make sure you have a C++ compiler installed. If you don't have one, you can inst
 ### Compiling the Program
 - Clone this repository:
   ```bash
-    git clone https://github.com/your-username/rock-paper-scissors-cpp.git
+    git clone https://github.com/Sudo-RR/Rock-Paper-Scissors-cpp.git
 - Navigate to the project directory:
   ```bash
-    cd rock-paper-scissors-cpp
+    cd Rock-Paper-Scissors-cpp
 - Compile the program:
   ```bash
-    g++ rock_paper_scissors.cpp -o rps
+    g++ Rock_Paper_Scissors.cpp -o rps
 - Run the executable:
   ```bash
     ./rps
