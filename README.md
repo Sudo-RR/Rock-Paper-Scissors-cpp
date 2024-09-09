@@ -25,3 +25,16 @@ Make sure you have a C++ compiler installed. If you don't have one, you can inst
   ```bash
    brew install gcc
 - On Windows you can either use [MinGW](https://www.mingw.org/) or an IDE such as [Microsoft Visual Studio](https://visualstudio.microsoft.com/#vs-section)
+### Compiling the Program
+- Clone this repository:
+  ```bash
+    git clone https://github.com/your-username/rock-paper-scissors-cpp.git
+- Navigate to the project directory:
+  ```bash
+    cd rock-paper-scissors-cpp
+- Compile the program:
+  ```bash
+    g++ rock_paper_scissors.cpp -o rps
+- Run the executable:
+  ```bash
+    ./rps
